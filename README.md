@@ -1,20 +1,20 @@
 # TubeTaker
 
-Um script Python simples para baixar vídeos do YouTube em 720p.
+A simple Python script to download YouTube videos in 720p.
 
-## Requisitos
+## Requirements
 - Python 3.9+
 - yt-dlp
 - ffmpeg
 
-## Instalação 
+## Installation
 
 bash
 
-## Como usar
+## How to use
 python3 youtube_downloader.py
 
-## Características
-- Download de vídeos em 720p
-- Salva automaticamente na pasta Downloads
-- Gera arquivo MP4 único com áudio e vídeo
+## Features
+- Downloads videos in 720p
+- Automatically saves to Downloads folder
+- Generates a single MP4 file with audio and video
